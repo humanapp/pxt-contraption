@@ -1,0 +1,32 @@
+{
+    "name": "Contraption",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "machine.ts",
+        "parts.ts",
+        "physics.ts",
+        "util.ts",
+        "math.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "blocks.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.8.26",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
